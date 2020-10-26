@@ -80,7 +80,7 @@ __Louisiana State University__ BA with Honors in Philosophy, Minors in Greek, Cl
 
 + Philosophy of Mind
 + Epistemology
-+ Medieval & Byzantine Philosophy
++ Medieval Philosophy
 + Early Modern Philosophy
 
 ## publications
