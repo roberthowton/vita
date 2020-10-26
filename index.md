@@ -17,7 +17,7 @@ title: RFH Vita
 
 <br>
 
-Updated: 25 August 2020
+Updated: 26 October 2020
 
 </div>
 
@@ -212,6 +212,8 @@ Graduate Student Travel Stipend, American Philosophical Association, 2014.
 Michael J. Herman Fellowship, Department of Philosophy, University of Toronto, 2011.
 
 Association of Former Students Graduate Merit Fellowship, Texas A&M University, 2008--2010.
+
+<!-- <div class="pagebreak"> </div> -->
 
 ## teaching
 
