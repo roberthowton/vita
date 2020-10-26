@@ -106,8 +106,6 @@ Paper on _Posterior Analytics_ 2.19 (Revise & Resubmit)
 
 Paper on Aristotle's Theory of Sensory Discrimination (In Progress)
 
-Paper on Aristotle's Theory of Sensible Qualities (In Progress, Promised to Editor)
-
 Paper on the "Natural End" of Living Things in Aristotle's Biology (In Progress)
 
 
@@ -357,6 +355,8 @@ Feminist Ethics. Instructor: Linda Radzik (TAMU)
 + German
 
 ## professional activities
+
+`2020-` Department Coordinator, Department of Philosophy, Koç University
 
 `2012-15`
 Steward for the Department of Philosophy, CUPE 3902 Unit 1.
