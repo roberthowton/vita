@@ -6,7 +6,7 @@ title: RFH Vita
 
 <br>
 <div class="no-print" align="center">
-<a href="http://roberthowton.com/vita/rfhvita.pdf" target="_blank">Printable Version</a> <i class="fas fa-external-link-alt"></i>
+<a href="./rfhvita.pdf" target="_blank">Printable Version</a> <i class="fas fa-external-link-alt"></i>
 </div>
 
 <div id="webaddress">
