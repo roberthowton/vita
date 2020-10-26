@@ -33,8 +33,8 @@ I am Assistant Professor in the Department of Philosophy at Koç University in I
 + Koç University
 + Rumelifeneri Yolu, 34450
 + Sarıyer/İstanbul, Türkiye
++ <i class="fas fa-home"></i> <a href="https://www.roberthowton.com"><code>roberthowton.com</code></a>
 + <i class="fa fa-envelope"></i> <a href="mailto:robert.f.howton@gmail.com"><code>robert.f.howton@gmail.com</code></a>
-+ <i class="fa fa-globe"></i> <a href="https://www.roberthowton.com"><code>roberthowton.com</code></a>
 + <i class="ai ai-philpapers"></i> <a href="https://philpeople.org/profiles/robert-howton"><code>philpeople.org/profiles/robert-howton</code></a>
 + <i class="ai ai-academia"></i> <a href="https://ku.academia.edu/RobertHowton"><code>ku.academia.edu/RobertHowton</code></a>
 + <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-1056-5182"><code>orcid.org/0000-0002-1056-5182</code></a>
