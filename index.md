@@ -52,7 +52,7 @@ __University of Pittsburgh__ Visiting Lecturer, Department of Philosophy
 ## education
 
 `2017`
-__University of Toronto__ PhD in Philosophy, Certificate in Collaborative Programme in Ancient and Medieval Philosophy. Dissertation: "Aristotle's Case For Perceptual Knowledge," Supervised by Jennifer Whiting, Read by Brad Inwood, Lloyd Gerson.
+__University of Toronto__ PhD in Philosophy, Certificate in Collaborative Programme in Ancient and Medieval Philosophy. Dissertation: "Aristotle's Case For Perceptual Knowledge," Supervised by Jennifer Whiting, Read by Brad Inwood, Lloyd Gerson, and Justin Broackes (External Examiner).
 
 `2015-16`
 __University of Pittsburgh__ Visiting Scholar, Department of Philosophy
@@ -64,7 +64,7 @@ __Yale University__ Visiting Assistant in Research, Department of Philosophy
 __University of Oxford__ Visiting Graduate, Corpus Christi College Centre for the Study of Greek and Roman Antiquity
 
 `2010`
-__Texas A&M University__ MA in Philosophy. Thesis: "Aristotle's Criticism of Plato's Method of Division," Supervised by Robin Smith, Read by Scott Austin, Craig Kallendorf.
+__Texas A&M University__ MA in Philosophy. Thesis: "Aristotle's Criticism of Plato's Method of Division," Supervised by Robin Smith, Read by Scott Austin and Craig Kallendorf.
 
 `2008`
 __Louisiana State University__ BA with Honors in Philosophy, Minors in Greek, Classics
@@ -195,21 +195,21 @@ Comments on Klaus Corcilius, "_Generation of Animals_ V.1--8." Aristotle on Livi
 
 Erasmus+ Higher Education Staff Exchange Grant, Spring 2020
 
-KOLT Teaching Innovation Grant (with Haris Theodorelis-Rigas), Koç University, Fall 2019.
+KOLT Teaching Innovation Grant (with Haris Theodorelis-Rigas), Koç University, Fall 2019
 
-Visiting Scholar Grant, Koç University, Summer 2019.
+Visiting Scholar Grant, Koç University, Summer 2019
 
-Celebration of Teaching & Learning Award, Koç University, Spring 2019.
+Celebration of Teaching & Learning Award, Koç University, Spring 2019
 
-Robinson Fellowship in Ancient Philosophy, University of Toronto, 2014--2015, 2015--2016.
+Robinson Fellowship in Ancient Philosophy, University of Toronto, 2014--2015, 2015--2016
 
-Ontario Graduate Scholarship, University of Toronto, 2013--2014, 2014--2015.
+Ontario Graduate Scholarship, University of Toronto, 2013--2014, 2014--2015
 
-Graduate Student Travel Stipend, American Philosophical Association, 2014.
+Graduate Student Travel Stipend, American Philosophical Association, 2014
 
-Michael J. Herman Fellowship, Department of Philosophy, University of Toronto, 2011.
+Michael J. Herman Fellowship, Department of Philosophy, University of Toronto, 2011
 
-Association of Former Students Graduate Merit Fellowship, Texas A&M University, 2008--2010.
+Association of Former Students Graduate Merit Fellowship, Texas A&M University, 2008--2010
 
 <!-- <div class="pagebreak"> </div> -->
 
@@ -218,7 +218,6 @@ Association of Former Students Graduate Merit Fellowship, Texas A&M University, 
 ### Koç University
 
 `2020`
-
 HUMS 132: Illusion: When Appearances Deceive
 
 PHIL 451: Philosophy of Perception: Color and Color Experience
@@ -356,10 +355,11 @@ Feminist Ethics. Instructor: Linda Radzik (TAMU)
 
 ## professional activities
 
-`2020-` Department Coordinator, Department of Philosophy, Koç University
+`2020-` 
+Department Coordinator, Department of Philosophy, Koç University
 
 `2012-15`
-Steward for the Department of Philosophy, CUPE 3902 Unit 1.
+Steward for the Department of Philosophy, CUPE 3902 Unit 1, University of Toronto
 
 ## references
 
