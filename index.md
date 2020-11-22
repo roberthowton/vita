@@ -95,9 +95,9 @@ Thomas Johansen, _The Powers of Aristotle's Soul_. _Philosophical Review_ 125 (1
 
 ### work in progress
 
-Paper on _Posterior Analytics_ 2.19 (Revise & Resubmit)
-
 "Reduction and Revelation in Aristotle's Science of Sensible Qualities" (Submitted to Editor, Draft Available Upon Request)
+
+Paper on _Posterior Analytics_ 2.19 (Revise & Resubmit)
 
 Paper on Aristotle's Theory of Sensory Discrimination (In Progress)
 
