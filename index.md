@@ -17,14 +17,9 @@ title: RFH Vita
 
 <br>
 
-Updated: 26 October 2020
+Updated: 22 November 2020
 
 </div>
-
-
-<!-- ## Currently
-
-I am Assistant Professor in the Department of Philosophy at Koç University in Istanbul. My research interests lie principally in ancient Greek and Roman philosophy and the philosophy of perception. Currently, I am writing on a cluster of topics in Aristotle’s psychology and natural science, including: perceptual discrimination, the metaphysics of color and other sensible qualities, the epistemic value of sense experience, and the status of soul as a final cause in the Aristotelian life sciences. -->
 
 ## contact
 
@@ -100,9 +95,9 @@ Thomas Johansen, _The Powers of Aristotle's Soul_. _Philosophical Review_ 125 (1
 
 ### work in progress
 
-"Reduction and Revelation in Aristotle's Science of Sensible Qualities" (Submitted to Editor, Draft Available Upon Request)
-
 Paper on _Posterior Analytics_ 2.19 (Revise & Resubmit)
+
+"Reduction and Revelation in Aristotle's Science of Sensible Qualities" (Submitted to Editor, Draft Available Upon Request)
 
 Paper on Aristotle's Theory of Sensory Discrimination (In Progress)
 
